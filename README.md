@@ -4,5 +4,5 @@ Technologies used in this project are,
 * h2 database
 * CompletableFuture class in Java 8
 * Spring boot
-* Asynchronous comunication
+* Asynchronous communication
 * Rest API
